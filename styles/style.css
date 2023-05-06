@@ -1,3 +1,5 @@
-p{
-    color:red;
+p,
+li,
+h1 {
+  color: red;
 }
